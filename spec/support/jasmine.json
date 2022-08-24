@@ -1,0 +1,8 @@
+{
+    "spec_dir": "module/test",
+    "spec_files": ["**/*[sS]pec.js"],
+    "helpers": ["main/**/*.js"],
+    "stopSpecOnExpectationFailure": false,
+    "random": true
+}
+  
